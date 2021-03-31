@@ -33,7 +33,7 @@
     "highlight.js": "*",
     "holderjs": "*",
     "i18n-2": "*",
-    "pug": "^2.0.0-alpha6",
+    "pug": "^3.0.1",
     "jquery": "*",
     "js-yaml": "*",
     "lodash": "*",
